@@ -1,0 +1,92 @@
+{
+  "hero": {
+    "title": "Hola, soy Ariel"
+  },
+  "about": {
+    "title": "Sobre de Mí",
+    "text": "Es un estudiante que combina una rigurosa disciplina técnica con una gran calidad humana. Destaca por su constancia: no se rinde ante los bugs o retos lógicos, sino que investiga y resuelve problemas con paciencia. Además, siempre está dispuesto a compartir pantalla, explicar un código complejo de forma sencilla y documentar su trabajo para ayudar a los demás, haciendo que programar en equipo sea una experiencia colaborativa y fluida."
+  },
+
+  "frase": [
+    {
+      "title": "1 año de experiencia en programación de creación de videojuego en Roblox Studio",
+      "subtitle": ""
+    },
+    {
+      "title": "Actualmente, aprendiendo programación en Roblox Studio",
+      "subtitle": ""
+    }
+  ],
+
+
+  "skills": {
+    "title": "HABILIDADES",
+    "codeSoftware": [
+      { "name": "ROBLOX", "icon": "imagenes/icons/roblox.png" }
+    ],
+    "aptitudes": [
+      { "name": "Creatividad", "icon": "fa-solid fa-palette" },
+      { "name": "Comunicación", "icon": "fa-solid fa-comment" },
+      { "name": "Honestidad", "icon": "fa-solid fa-heart" },
+      { "name": "Proactividad", "icon": "fa-solid fa-bolt" },
+      { "name": "Responsabilidad", "icon": "fa-solid fa-medal" },
+      { "name": "Trabajo en equipo", "icon": "fa-solid fa-users" }
+    ]
+  },
+
+  "experiencia": [
+
+    {
+      "title": "Curso de Programación Roblox ",
+      "year": "2026",
+      "image": "imagenes/certificados/certificado-roblox.png",
+      "tools": ["Diseño 3D, Programación LUA, NPC's, Interfaces Gráficas, Propiedades, Lógica"],
+      "description": "En este curso, aprendí a programar mientras daba vida a mis propios mundos en 3D. A través de Roblox Studio, desarrolle mi creatividad y pensamiento lógico al diseñar escenarios, construir objetos con herramientas de modelado 3D y programar mecánicas de juego usando Lua, el lenguaje que mueve Roblox. Cada clase combine diseño, lógica y juegos de forma divertida y práctica, creando videojuegos originales paso a paso.",
+      "accomplishments": "Ganador:   "
+    }
+  ],
+
+"proyectos": {
+    "description": "Las principales áreas en las que me desempeño son Desarrollo de Videojuegos en Scratch. Conoce algunos de mis proyectos favoritos a continuación.",
+    "items": [
+      {
+        "category": "Roblox",
+        "title": "Tower",
+        "description": " ",
+        "image": "imagenes/proyectos/tower.png",
+        "link": "https://www.roblox.com/es/games/118178051517855/Juego-sin-nombre"
+      },
+      {
+        "category": "Roblox",
+        "title": "Obby",
+        "description": " ",
+        "image": "imagenes/proyectos/obby.png",
+        "link": "https://www.roblox.com/es/games/130281868111509/parkour-XDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDDD"
+      },
+      {
+        "category": "Roblox",
+        "title": "Pista de Carreras",
+        "description": "  ",
+        "image": "imagenes/proyectos/car.png",
+        "link": "https://www.roblox.com/es/games/129235053671952/carreras-ariel"
+      }
+    ]
+  },
+
+  "testimonios": [
+    {
+      "text": "Ariel se destacó en la participación de proyectos, y como capitan del equipo de programación, demostrando ser una persona responsable y honesta.",
+      "cliente": "Yesid Cristancho",
+      "cargo": "Tutor en Punto Code",
+      "image": "imagenes/recomendaciones/companero.png"
+    },
+    {
+      "text": "Ariel ha demostrado ser una persona muy responsable, trabajador y compañerista.",
+      "cliente": "Alejandra L.",
+      "cargo": "Tutor en Punto Code",
+      "image": "imagenes/recomendaciones/companero.png"
+    }
+  ]
+
+
+}
